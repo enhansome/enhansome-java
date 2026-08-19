@@ -1,89 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Frameworks and libraries that help implementing and verifying design and architecture concepts.\nFrameworks for building applications with AI, agents and knowledge-based systems.\nFrameworks that ease bean mapping.\nLibraries and frameworks for building chatbots and messaging-platform bots.\nTools that handle the build cycle and dependencies of an application.\nLibraries to manipulate bytecode programmatically.\nLibraries that provide caching facilities.\nLibraries for everything related to the CLI.",
-      "items": [],
-      "title": "Projects"
-    },
-    {
-      "description": "Libraries to assist with parsing command line arguments.",
-      "items": [],
-      "title": "Argument Parsing 5 projects"
-    },
-    {
-      "description": "Libraries that provide TUI frameworks, or building blocks related functions.\nLibraries to integrate or use cloud-specific features.\nTools that provide metrics and quality measurements.\nFrameworks and tools that enable code coverage metrics collection for test suites.\nTools that format or restructure Java source code.\nTools that generate patterns for repetitive code in order to reduce verbosity and error-proneness.\nFrameworks that help to create parsers, interpreters or compilers.\nLibraries which seek to gain high level information from images and videos.\nLibraries that provide external configuration.\nLibraries that help with implementing optimization and satisfiability problems.\nFrameworks and libraries that simplify reading/writing CSV data.\nTools for batch, stream, table and data-transformation workloads.\nEfficient and specific data structures.\nEverything that simplifies interactions with the database.\nLibraries related to handling date and time.\nLibraries that handle decentralization tasks.\nLibraries for decompiling JVM bytecode.\nLibraries that help to realize the Inversion of Control paradigm.\nAugmentation of the development process at a fundamental level.\nLibraries and frameworks for writing distributed and fault-tolerant applications.\nDistributed transactions provide a mechanism for ensuring consistency of data updates in the presence of concurrent access and partial failures.\nTools that handle the distribution of applications in native formats.\nLibraries that assist with processing office document formats.\nLibraries and SDKs for evaluating and managing feature flags.\nLibraries related to the financial domain.\nFrameworks and libraries for reading and writing fixed-length and delimited flat files.\nFormal-methods tools: proof assistants, model checking, symbolic execution, etc.\nLibraries that facilitate functional programming.\nFrameworks that support the development of games.\nLibraries for working with geospatial data and algorithms.\nLibraries to create modern graphical user interfaces.\nEverything about high-performance computation, from collections to specific libraries.\nLibraries that assist with creating HTTP requests and/or binding responses.\nIntegrated development environments that try to simplify several aspects of development.\nLibraries that assist with the creation, evaluation or manipulation of graphical images.\nLibraries that help make the Java introspection and reflection API easier and faster to use.\nLibraries for scheduling background jobs.\nLibraries for serializing and deserializing JSON to and from Java objects.\nCurrent implementations of the JVM/JDK.\nLibraries that log the behavior of an application.\nTools that provide specific statistical algorithms for learning from data.\nTools that help send messages between clients to ensure protocol independency.\nTools for creating and managing microservices.\nEverything else.\nTools for creating or managing mobile applications.\nTools that observe/monitor applications in production by providing telemetry.\nFor working with platform-specific native libraries.\nLibraries that specialize in processing text.\nLibraries for building network clients and servers.\nAPIs that handle the persistence of objects.\nJava platform as a service.\nTools to help with PDF files.\nTools for performance analysis, profiling and benchmarking.\nFrameworks that are suites of multiple libraries encompassing several categories.",
-      "items": [],
-      "title": "Text-Based User Interfaces 4 projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Apache Commons 49 projects"
-    },
-    {
-      "description": "Libraries that help the management of operating system processes.\nJava proxy and gateway servers for routing and mediating traffic.\nLibraries for developing reactive applications.\nLibraries and engines for building and evaluating regular expressions.\nFrameworks specifically for creating RESTful services.\nLibraries for scientific computing, analysis and visualization.\nTools and runtimes for using Java or Java-like languages as scripts.\nEngines that index documents for search and analysis.\nLibraries that handle security, authentication, authorization or session management.\nLibraries that handle serialization with high efficiency.\nServers specifically used to deploy applications.\nLibraries for reading, writing and generating spreadsheet files.\nTools that substitute expressions in a template.\nTools that test from model to the view.",
-      "items": [],
-      "title": "Other 3 projects"
-    },
-    {
-      "description": "Testing for the software development process that emerged from TDD and was heavily influenced by DDD and OOAD.",
-      "items": [],
-      "title": "BDD 6 projects"
-    },
-    {
-      "description": "Everything related to the creation and handling of random data.",
-      "items": [],
-      "title": "Fixtures 6 projects"
-    },
-    {
-      "description": "Provide environments to run tests for a specific use case.",
-      "items": [],
-      "title": "Frameworks 7 projects"
-    },
-    {
-      "description": "Tools for integration, service and contract testing.",
-      "items": [],
-      "title": "Integration 11 projects"
-    },
-    {
-      "description": "Libraries that provide custom matchers.",
-      "items": [],
-      "title": "Matchers 4 projects"
-    },
-    {
-      "description": "Other stuff related to testing.",
-      "items": [],
-      "title": "Miscellaneous 11 projects"
-    },
-    {
-      "description": "Tools which mock collaborators to help testing single, isolated units.",
-      "items": [],
-      "title": "Mocking 6 projects"
-    },
-    {
-      "description": "Tools for load and performance testing.\nLibraries which provide general utility functions.\nUtilities that help create the development shell environment and switch between different Java versions.\nLibraries that analyze the content of websites.\nFrameworks that handle the communication between the layers of a web application.\nEngines for orchestrating long-running workflows and business processes.",
-      "items": [],
-      "title": "Performance 3 projects"
-    },
-    {
-      "description": "Awesome Lists related to the Java & JVM ecosystem.\nActive discussions.\nGuides, tutorials, examples and practical references for Java developers.\nBooks that made a big impact and are still worth reading.\nSomething to look at or listen to while programming.\nActive accounts to follow. Descriptions from their socials.\nSites to read.",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Catalog and documentation: CC BY-SA 4.0. Automation code and configuration: MIT.",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T03:53:57.830Z",
+    "last_updated": "2026-08-19T12:37:16.794Z",
     "original_repository": "akullpp/awesome-java",
+    "original_repository_id": 21648001,
     "original_repository_sha": "3eaed1bd3e870657360840b61409eb7412e1055c",
     "enhanced_repository": "enhansome/enhansome-java",
     "enhanced_repository_description": null,
