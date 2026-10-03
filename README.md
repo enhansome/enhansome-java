@@ -150,13 +150,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[A2A Java SDK](https://github.com/a2aproject/a2a-java) ⭐ 504 | 🐛 62 | 🌐 Java | 📅 2026-10-01** <kbd>★ 496</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for the Agent2Agent protocol.
 
-> **[AgentScope Java](https://github.com/agentscope-ai/agentscope-java) ⭐ 5,863 | 🐛 908 | 🌐 Java | 📅 2026-10-02** <kbd>★ 5.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
+> **[AgentScope Java](https://github.com/agentscope-ai/agentscope-java) ⭐ 5,865 | 🐛 906 | 🌐 Java | 📅 2026-10-02** <kbd>★ 5.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
 
 > **[Anahata ASI](https://github.com/anahata-os/anahata-asi) ⭐ 28 | 🐛 20 | 🌐 Java | 📅 2026-10-02** <kbd>★ 27</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.
 
 > **[ARA](https://github.com/xmor/ara) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java framework for AI agents with tool calling, deterministic input and output contracts, and configurable execution strategies.
 
-> **[Dokimos](https://github.com/dokimos-dev/dokimos) ⭐ 58 | 🐛 14 | 🌐 Java | 📅 2026-09-17** <kbd>★ 58</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
+> **[Dokimos](https://github.com/dokimos-dev/dokimos) ⭐ 59 | 🐛 14 | 🌐 Java | 📅 2026-09-17** <kbd>★ 58</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
 
 > **[Google Gen AI Java SDK](https://github.com/googleapis/java-genai) ⭐ 398 | 🐛 46 | 🌐 Java | 📅 2026-10-02** <kbd>★ 397</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for integrating Google generative AI models.
 
@@ -164,9 +164,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[JamJet](https://github.com/jamjet-labs/jamjet) ⭐ 22 | 🐛 8 | 🌐 Rust | 📅 2026-08-31** <kbd>★ 21</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.
 
-> **[LangChain4j](https://github.com/langchain4j/langchain4j) ⭐ 13,198 | 🐛 953 | 🌐 Java | 📅 2026-10-02** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
+> **[LangChain4j](https://github.com/langchain4j/langchain4j) ⭐ 13,198 | 🐛 956 | 🌐 Java | 📅 2026-10-02** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
 
-> **[liter-llm](https://github.com/xberg-io/liter-llm) ⭐ 259 | 🐛 1 | 🌐 Rust | 📅 2026-09-30** <kbd>★ 255</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
+> **[liter-llm](https://github.com/xberg-io/liter-llm) ⭐ 260 | 🐛 1 | 🌐 Rust | 📅 2026-09-30** <kbd>★ 255</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
 
 > **[MCP Java SDK](https://github.com/modelcontextprotocol/java-sdk) ⭐ 3,718 | 🐛 279 | 🌐 Java | 📅 2026-09-30** <kbd>★ 3.7k</kbd> <kbd>MIT</kbd> 🟢<br>Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 
@@ -178,7 +178,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Spring AI](https://github.com/spring-projects/spring-ai) ⭐ 9,507 | 🐛 1,494 | 🌐 Java | 📅 2026-10-01** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Application framework for AI engineering for Spring.
 
-> **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) ⭐ 10,956 | 🐛 157 | 🌐 Java | 📅 2026-09-16** <kbd>★ 10.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agentic AI framework built on Spring AI with model, tool, RAG and workflow integrations.
+> **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) ⭐ 10,957 | 🐛 159 | 🌐 Java | 📅 2026-09-16** <kbd>★ 10.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agentic AI framework built on Spring AI with model, tool, RAG and workflow integrations.
 
 </details>
 
@@ -189,7 +189,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Immuto](https://github.com/karunarathnad/immuto) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2026-08-02** <kbd>★ 6</kbd> 🟢<br>Annotation processor that generates type-safe mapper implementations for Java Records using canonical constructors, with zero runtime reflection.
 
-> **[MapStruct](https://github.com/mapstruct/mapstruct) ⭐ 7,693 | 🐛 546 | 🌐 Java | 📅 2026-09-24** <kbd>★ 7.7k</kbd> 🟢<br>Code generator that simplifies mappings between different bean types, based on a convention-over-configuration approach.
+> **[MapStruct](https://github.com/mapstruct/mapstruct) ⭐ 7,694 | 🐛 546 | 🌐 Java | 📅 2026-09-24** <kbd>★ 7.7k</kbd> 🟢<br>Code generator that simplifies mappings between different bean types, based on a convention-over-configuration approach.
 
 > **[ModelMapper](https://github.com/modelmapper/modelmapper) ⭐ 2,352 | 🐛 260 | 🌐 Java | 📅 2025-11-11** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Intelligent object mapping library that automatically maps objects to each other.
 
@@ -217,11 +217,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Tools that handle the build cycle and dependencies of an application.*
 
-> **[Apache Maven](https://github.com/apache/maven) ⭐ 5,361 | 🐛 684 | 🌐 Java | 📅 2026-10-02** <kbd>★ 5.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
+> **[Apache Maven](https://github.com/apache/maven) ⭐ 5,364 | 🐛 685 | 🌐 Java | 📅 2026-10-02** <kbd>★ 5.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 
 > **[Bazel](https://github.com/bazelbuild/bazel) ⭐ 25,913 | 🐛 1,830 | 🌐 Java | 📅 2026-10-02** <kbd>★ 25.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Tool from Google that builds code quickly and reliably.
 
-> **[Buck2](https://github.com/facebook/buck2) ⭐ 4,453 | 🐛 405 | 🌐 Rust | 📅 2026-10-02** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Encourages the creation of small, reusable modules consisting of code and resources.
+> **[Buck2](https://github.com/facebook/buck2) ⭐ 4,454 | 🐛 405 | 🌐 Rust | 📅 2026-10-02** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Encourages the creation of small, reusable modules consisting of code and resources.
 
 > **[Dependency Analysis Gradle Plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin) ⭐ 2,180 | 🐛 163 | 🌐 Kotlin | 📅 2026-10-01** <kbd>★ 2.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analyzes JVM and Android builds and recommends dependency and plugin changes.
 
@@ -233,7 +233,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[git-commit-id Maven Plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) ⭐ 1,717 | 🐛 29 | 🌐 Java | 📅 2026-09-21** <kbd>★ 1.7k</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Exposes Git revision information to Maven builds and applications.
 
-> **[Gradle](https://github.com/gradle/gradle) ⭐ 18,866 | 🐛 3,506 | 🌐 Groovy | 📅 2026-10-03** <kbd>★ 18.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+> **[Gradle](https://github.com/gradle/gradle) ⭐ 18,868 | 🐛 3,506 | 🌐 Groovy | 📅 2026-10-03** <kbd>★ 18.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 > **[jar-cart](https://github.com/Sudhanshu-Ambastha/jar-cart) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-10** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟢<br>A modern, zero-configuration package manager and runner for the Java ecosystem written in Go, focusing on developer productivity and build speed.
 
@@ -346,7 +346,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Tools that provide metrics and quality measurements.*
 
-> **[Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,587 | 🐛 761 | 🌐 Java | 📅 2026-10-02** <kbd>★ 9.6k</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Static analysis of coding conventions and standards.
+> **[Checkstyle](https://github.com/checkstyle/checkstyle) ⭐ 9,587 | 🐛 765 | 🌐 Java | 📅 2026-10-03** <kbd>★ 9.6k</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Static analysis of coding conventions and standards.
 
 > **[Error Prone](https://github.com/google/error-prone) ⭐ 7,244 | 🐛 544 | 🌐 Java | 📅 2026-10-02** <kbd>★ 7.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Catches common programming mistakes as compile-time errors.
 
@@ -364,7 +364,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[OpenRewrite](https://github.com/openrewrite/rewrite) ⭐ 3,770 | 🐛 287 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates large-scale source-code refactoring through reusable recipes.
 
-> **[OpenTaint](https://github.com/seqra/opentaint) ⭐ 160 | 🐛 89 | 🌐 Kotlin | 📅 2026-10-02** <kbd>★ 158</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
+> **[OpenTaint](https://github.com/seqra/opentaint) ⭐ 160 | 🐛 90 | 🌐 Kotlin | 📅 2026-10-02** <kbd>★ 158</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
 
 > **[PMD](https://github.com/pmd/pmd) ⭐ 5,494 | 🐛 597 | 🌐 Java | 📅 2026-10-03** <kbd>★ 5.5k</kbd> 🟢<br>Source code analysis for finding bad coding practices.
 
@@ -393,7 +393,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[OpenClover](https://github.com/openclover/clover) ⭐ 71 | 🐛 39 | 🌐 Java | 📅 2026-10-01** <kbd>★ 70</kbd> 🟢<br>Measures Java code coverage through source-code instrumentation, with build-tool and IDE integrations.
 
-> **[Supercov](https://github.com/supercorp-ai/supercov) ⭐ 143 | 🐛 1 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 107</kbd> <kbd>MIT</kbd> 🟢<br>Measures line, branch, and MC/DC coverage of Java and Kotlin test runs and scores source files for code quality.
+> **[Supercov](https://github.com/supercorp-ai/supercov) ⭐ 144 | 🐛 0 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 107</kbd> <kbd>MIT</kbd> 🟢<br>Measures line, branch, and MC/DC coverage of Java and Kotlin test runs and scores source files for code quality.
 
 </details>
 
@@ -402,13 +402,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Tools that format or restructure Java source code.*
 
-> **[google-java-format](https://github.com/google/google-java-format) ⭐ 6,203 | 🐛 169 | 🌐 Java | 📅 2026-10-01** <kbd>★ 6.2k</kbd> 🟢<br>Reformats Java source code to follow Google Java Style.
+> **[google-java-format](https://github.com/google/google-java-format) ⭐ 6,203 | 🐛 170 | 🌐 Java | 📅 2026-10-01** <kbd>★ 6.2k</kbd> 🟢<br>Reformats Java source code to follow Google Java Style.
 
 > **[JHarmonizer](https://github.com/lemon-ant/JHarmonizer) ⭐ 30 | 🐛 38 | 🌐 Java | 📅 2026-10-01** <kbd>★ 30</kbd> 🟢<br>Safely reorders Java source code with configurable rules and Palantir Java Format.
 
 > **[Palantir Java Format](https://github.com/palantir/palantir-java-format) ⭐ 915 | 🐛 167 | 🌐 Java | 📅 2026-10-03** <kbd>★ 909</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formatter based on google-java-format with wider lines and lambda-friendly output.
 
-> **[Spotless](https://github.com/diffplug/spotless) ⭐ 5,678 | 🐛 262 | 🌐 Java | 📅 2026-09-28** <kbd>★ 5.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A versatile code formatter for Gradle and Maven that enforces multiple styles (including Google and Palantir) across Java and other languages.
+> **[Spotless](https://github.com/diffplug/spotless) ⭐ 5,679 | 🐛 262 | 🌐 Java | 📅 2026-09-28** <kbd>★ 5.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A versatile code formatter for Gradle and Maven that enforces multiple styles (including Google and Palantir) across Java and other languages.
 
 </details>
 
@@ -447,7 +447,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[JSpecify Package-Info Generator](https://github.com/bcaillard/jspecify-packageinfo-generator) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2025-11-28** <kbd>★ 4</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Maven plugin that automatically generates package-info.java files with JSpecify annotations (@NullMarked and @NullUnmarked), helping you manage nullness boundaries in your Java projects without manual boilerplate.
 
-> **[Lombok](https://github.com/projectlombok/lombok) ⭐ 13,480 | 🐛 1,005 | 🌐 Java | 📅 2026-10-01** <kbd>★ 13.5k</kbd> 🟢<br>Code generator that aims to reduce verbosity.
+> **[Lombok](https://github.com/projectlombok/lombok) ⭐ 13,481 | 🐛 1,005 | 🌐 Java | 📅 2026-10-01** <kbd>★ 13.5k</kbd> 🟢<br>Code generator that aims to reduce verbosity.
 
 > **[Record-Builder](https://github.com/Randgalt/record-builder) ⭐ 932 | 🐛 33 | 🌐 Java | 📅 2026-08-01** <kbd>★ 929</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Companion builder class, withers and templates for Java records.
 
@@ -514,7 +514,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[NightConfig](https://github.com/TheElectronWill/night-config) ⭐ 287 | 🐛 26 | 🌐 Java | 📅 2026-08-17** <kbd>★ 287</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Configuration library supporting TOML, YAML, HOCON, JSON and in-memory formats.
 
-> **[owner](https://github.com/matteobaccan/owner) ⭐ 940 | 🐛 2 | 🌐 Java | 📅 2026-10-02** <kbd>★ 940</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Reduces boilerplate of properties.
+> **[owner](https://github.com/matteobaccan/owner) ⭐ 940 | 🐛 3 | 🌐 Java | 📅 2026-10-03** <kbd>★ 940</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Reduces boilerplate of properties.
 
 > **[sealed-env](https://github.com/davidalmeidac/sealed-env) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-03** <kbd>★ 9</kbd> <kbd>MIT</kbd> 🟢<br>Encrypts environment files with a shared Node.js and Java/Spring Boot format plus optional TOTP unsealing.
 
@@ -529,7 +529,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[JaCoP](https://github.com/radsz/jacop) ⭐ 235 | 🐛 11 | 🌐 Java | 📅 2026-03-22** <kbd>★ 235</kbd> 🟠<br>Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
-> **[Timefold](https://github.com/TimefoldAI/timefold-solver) ⭐ 1,804 | 🐛 115 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
+> **[Timefold](https://github.com/TimefoldAI/timefold-solver) ⭐ 1,805 | 🐛 115 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
 
 </details>
 
@@ -538,7 +538,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Frameworks and libraries that simplify reading/writing CSV data.*
 
-> **[FastCSV](https://github.com/osiegmar/FastCSV) ⭐ 692 | 🐛 2 | 🌐 Java | 📅 2026-09-27** <kbd>★ 692</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
+> **[FastCSV](https://github.com/osiegmar/FastCSV) ⭐ 692 | 🐛 1 | 🌐 Java | 📅 2026-09-27** <kbd>★ 692</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
 
 > **[jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformats-text) ⭐ 455 | 🐛 54 | 🌐 Java | 📅 2026-09-28** <kbd>★ 455</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
 
@@ -551,7 +551,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Tools for batch, stream, table and data-transformation workloads.*
 
-> **[Apache Flink](https://github.com/apache/flink) ⭐ 26,378 | 🐛 383 | 🌐 Java | 📅 2026-10-03** <kbd>★ 26.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, large-scale data processing engine.
+> **[Apache Flink](https://github.com/apache/flink) ⭐ 26,378 | 🐛 381 | 🌐 Java | 📅 2026-10-03** <kbd>★ 26.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, large-scale data processing engine.
 
 > **[Apache Storm](https://github.com/apache/storm) ⭐ 6,697 | 🐛 40 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Realtime computation system.
 
@@ -599,17 +599,17 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apache Cassandra](https://github.com/apache/cassandra) ⭐ 10,112 | 🐛 548 | 🌐 Java | 📅 2026-10-02** <kbd>★ 10.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed wide-column database with linear scalability and fault tolerance.
 
-> **[Apache Doris](https://github.com/apache/doris) ⭐ 16,023 | 🐛 1,355 | 🌐 Java | 📅 2026-10-02** <kbd>★ 16.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL database for real-time analytics.
+> **[Apache Doris](https://github.com/apache/doris) ⭐ 16,023 | 🐛 1,356 | 🌐 Java | 📅 2026-10-02** <kbd>★ 16.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL database for real-time analytics.
 
 > **[Apache Drill](https://github.com/apache/drill) ⭐ 2,024 | 🐛 132 | 🌐 Java | 📅 2026-10-03** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
 
 > **[Apache Phoenix](https://github.com/apache/phoenix) ⭐ 1,057 | 🐛 159 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance relational database layer over HBase for low-latency applications.
 
-> **[Apache ShardingSphere](https://github.com/apache/shardingsphere) ⭐ 20,804 | 🐛 198 | 🌐 Java | 📅 2026-10-02** <kbd>★ 20.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL transaction & query engine that allows for data sharding, scaling, encryption, and more on any database.
+> **[Apache ShardingSphere](https://github.com/apache/shardingsphere) ⭐ 20,805 | 🐛 198 | 🌐 Java | 📅 2026-10-02** <kbd>★ 20.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL transaction & query engine that allows for data sharding, scaling, encryption, and more on any database.
 
 > **[ArangoDB](https://github.com/arangodb/arangodb-java-driver) ⭐ 210 | 🐛 15 | 🌐 Java | 📅 2026-10-02** <kbd>★ 210</kbd> <kbd>Apache-2.0</kbd> 🟢<br>ArangoDB Java driver.
 
-> **[ArcadeDB](https://github.com/ArcadeData/arcadedb) ⭐ 1,176 | 🐛 125 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.
+> **[ArcadeDB](https://github.com/ArcadeData/arcadedb) ⭐ 1,177 | 🐛 142 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.
 
 > **[Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) ⭐ 2,991 | 🐛 32 | 🌐 Java | 📅 2026-09-28** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
 
@@ -619,7 +619,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Debezium](https://github.com/debezium/debezium) ⭐ 13,174 | 🐛 135 | 🌐 Java | 📅 2026-10-02** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low latency data streaming platform for change data capture.
 
-> **[druid](https://github.com/apache/druid) ⭐ 14,058 | 🐛 772 | 🌐 Java | 📅 2026-10-03** <kbd>★ 14.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, column-oriented, distributed data store.
+> **[druid](https://github.com/apache/druid) ⭐ 14,058 | 🐛 771 | 🌐 Java | 📅 2026-10-03** <kbd>★ 14.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, column-oriented, distributed data store.
 
 > **[eXist](https://github.com/eXist-db/exist) ⭐ 471 | 🐛 462 | 🌐 Java | 📅 2026-10-02** <kbd>★ 470</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>NoSQL document database and application platform.
 
@@ -627,9 +627,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Flyway](https://github.com/flyway/flyway) ⭐ 10,117 | 🐛 260 | 🌐 Java | 📅 2026-10-01** <kbd>★ 10.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simple database migration tool.
 
-> **[H2](https://github.com/h2database/h2database) ⭐ 4,633 | 🐛 450 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.6k</kbd> 🟢<br>Small SQL database notable for its in-memory functionality.
+> **[H2](https://github.com/h2database/h2database) ⭐ 4,632 | 🐛 450 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.6k</kbd> 🟢<br>Small SQL database notable for its in-memory functionality.
 
-> **[HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,231 | 🐛 543 | 🌐 Java | 📅 2026-06-14** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>High-performance JDBC connection pool.
+> **[HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,230 | 🐛 543 | 🌐 Java | 📅 2026-06-14** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>High-performance JDBC connection pool.
 
 > **[HSQLDB](https://hsqldb.org/)**<br>HyperSQL 100% Java database.
 
@@ -649,7 +649,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Lettuce](https://github.com/redis/lettuce) ⭐ 5,779 | 🐛 197 | 🌐 Java | 📅 2026-10-03** <kbd>★ 5.8k</kbd> <kbd>MIT</kbd> 🟢<br>Lettuce is a scalable Redis client for building non-blocking Reactive applications.
 
-> **[Liquibase](https://github.com/liquibase/liquibase) ⭐ 5,618 | 🐛 264 | 🌐 Java | 📅 2026-10-02** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
+> **[Liquibase](https://github.com/liquibase/liquibase) ⭐ 5,618 | 🐛 264 | 🌐 Java | 📅 2026-10-03** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
 > **[MapDB](https://github.com/jankotek/mapdb) ⭐ 5,051 | 🐛 200 | 🌐 Java | 📅 2026-08-27** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
@@ -661,9 +661,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[ObjectBox](https://github.com/objectbox/objectbox-java) ⭐ 4,626 | 🐛 146 | 🌐 Java | 📅 2026-08-03** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded object and vector database for Java and Android.
 
-> **[Open J Proxy](https://github.com/Open-J-Proxy/ojp) ⭐ 237 | 🐛 51 | 🌐 Java | 📅 2026-10-02** <kbd>★ 227</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.
+> **[Open J Proxy](https://github.com/Open-J-Proxy/ojp) ⭐ 237 | 🐛 52 | 🌐 Java | 📅 2026-10-03** <kbd>★ 227</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.
 
-> **[OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ) ⭐ 440 | 🐛 25 | 🌐 Java | 📅 2026-10-02** <kbd>★ 439</kbd> 🟢<br>LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
+> **[OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ) ⭐ 440 | 🐛 25 | 🌐 Java | 📅 2026-10-03** <kbd>★ 439</kbd> 🟢<br>LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
 
 > **[Presto](https://github.com/prestodb/presto) ⭐ 16,753 | 🐛 2,988 | 🌐 Java | 📅 2026-10-03** <kbd>★ 16.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for large data sources.
 
@@ -671,11 +671,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[QueryStream](https://github.com/querystream/querystream) ⭐ 22 | 🐛 0 | 🌐 HTML | 📅 2025-05-06** <kbd>★ 22</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Build JPA Criteria queries using a Stream-like API.
 
-> **[QuestDB](https://github.com/questdb/questdb) ⭐ 17,410 | 🐛 1,012 | 🌐 Java | 📅 2026-10-03** <kbd>★ 17.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+> **[QuestDB](https://github.com/questdb/questdb) ⭐ 17,413 | 🐛 1,013 | 🌐 Java | 📅 2026-10-03** <kbd>★ 17.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 
 > **[Realm](https://github.com/realm/realm-java) ⭐ 11,455 | 🐛 394 | 🌐 Java | 📅 2025-09-15** <kbd>★ 11.5k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Mobile database to run directly inside phones, tablets or wearables.
 
-> **[Redisson](https://github.com/redisson/redisson) ⭐ 24,409 | 🐛 248 | 🌐 Java | 📅 2026-10-02** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows for distributed and scalable data structures on top of a Redis server.
+> **[Redisson](https://github.com/redisson/redisson) ⭐ 24,410 | 🐛 248 | 🌐 Java | 📅 2026-10-02** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows for distributed and scalable data structures on top of a Redis server.
 
 > **[requery](https://github.com/requery/requery) ⭐ 3,124 | 🐛 170 | 🌐 Java | 📅 2026-02-09** <kbd>★ 3.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
@@ -687,7 +687,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[StarRocks](https://github.com/StarRocks/starrocks) ⭐ 12,152 | 🐛 1,450 | 🌐 Java | 📅 2026-10-03** <kbd>★ 12.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for real-time analytics and data lakehouses.
 
-> **[Trino](https://github.com/trinodb/trino) ⭐ 13,296 | 🐛 2,734 | 🌐 Java | 📅 2026-10-03** <kbd>★ 13.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for big data.
+> **[Trino](https://github.com/trinodb/trino) ⭐ 13,297 | 🐛 2,734 | 🌐 Java | 📅 2026-10-03** <kbd>★ 13.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for big data.
 
 > **[Vibur DBCP](https://github.com/vibur/vibur-dbcp) ⭐ 124 | 🐛 0 | 🌐 Java | 📅 2025-01-09** <kbd>★ 124</kbd> <kbd>Apache-2.0</kbd> 🔴<br>JDBC connection pool library with advanced performance monitoring capabilities.
 
@@ -732,11 +732,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Fernflower](https://github.com/JetBrains/fernflower) ⭐ 4,414 | 🐛 0 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java decompiler with broad JVM bytecode support.
 
-> **[jadx](https://github.com/skylot/jadx) ⭐ 50,719 | 🐛 455 | 🌐 Java | 📅 2026-10-01** <kbd>★ 50.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
+> **[jadx](https://github.com/skylot/jadx) ⭐ 50,720 | 🐛 455 | 🌐 Java | 📅 2026-10-01** <kbd>★ 50.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
 > **[transformer-api](https://github.com/nbauma109/transformer-api) ⭐ 3 | 🐛 2 | 🌐 Java | 📅 2026-09-28** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
-> **[Vineflower](https://github.com/Vineflower/vineflower) ⭐ 2,382 | 🐛 105 | 🌐 Java | 📅 2026-08-18** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern maintained fork of Fernflower.
+> **[Vineflower](https://github.com/Vineflower/vineflower) ⭐ 2,383 | 🐛 105 | 🌐 Java | 📅 2026-08-18** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern maintained fork of Fernflower.
 
 </details>
 
@@ -749,7 +749,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Avaje Inject](https://github.com/avaje/avaje-inject) ⭐ 318 | 🐛 8 | 🌐 Java | 📅 2026-09-28** <kbd>★ 317</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Microservice-focused compile-time injection framework without reflection.
 
-> **[Dagger](https://github.com/google/dagger) ⭐ 17,701 | 🐛 372 | 🌐 Java | 📅 2026-10-02** <kbd>★ 17.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compile-time injection framework without reflection.
+> **[Dagger](https://github.com/google/dagger) ⭐ 17,701 | 🐛 370 | 🌐 Java | 📅 2026-10-03** <kbd>★ 17.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compile-time injection framework without reflection.
 
 > **[Dimension-DI](https://github.com/akardapolov/dimension-di) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2026-08-22** <kbd>★ 20</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JSR-330 runtime dependency injection using the JDK Class-File API.
 
@@ -770,7 +770,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Faux Pas](https://github.com/zalando/faux-pas) ⭐ 144 | 🐛 12 | 🌐 Java | 📅 2025-06-30** <kbd>★ 144</kbd> <kbd>MIT</kbd> 🔴<br>Library that simplifies error handling by circumventing the issue that none of the functional interfaces in the Java Runtime is allowed by default to throw checked exceptions.
 
-> **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,367 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30** <kbd>★ 79.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
+> **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,381 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30** <kbd>★ 79.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
 
 > **[HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) ⭐ 2,625 | 🐛 108 | 🌐 Java | 📅 2026-08-26** <kbd>★ 2.6k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Unlimited runtime class and resource redefinition.
 
@@ -799,7 +799,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apache Geode](https://github.com/apache/geode) ⭐ 2,386 | 🐛 16 | 🌐 Java | 📅 2026-09-28** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>In-memory data management system that provides reliable asynchronous event notifications and guaranteed message delivery.
 
-> **[Apache ZooKeeper](https://github.com/apache/zookeeper) ⭐ 12,816 | 🐛 239 | 🌐 Java | 📅 2026-10-02** <kbd>★ 12.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Coordination service with distributed configuration, synchronization, and naming registry for large distributed systems.
+> **[Apache ZooKeeper](https://github.com/apache/zookeeper) ⭐ 12,817 | 🐛 239 | 🌐 Java | 📅 2026-10-02** <kbd>★ 12.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Coordination service with distributed configuration, synchronization, and naming registry for large distributed systems.
 
 > **[Axon](https://github.com/AxonIQ/AxonFramework) ⭐ 3,620 | 🐛 204 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating CQRS applications.
 
@@ -874,7 +874,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Libraries that assist with processing office document formats.*
 
-> **[Apache Tika](https://github.com/apache/tika) ⭐ 4,084 | 🐛 66 | 🌐 Java | 📅 2026-10-03** <kbd>★ 4.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects and extracts text and metadata from a wide range of document formats.
+> **[Apache Tika](https://github.com/apache/tika) ⭐ 4,085 | 🐛 66 | 🌐 Java | 📅 2026-10-03** <kbd>★ 4.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects and extracts text and metadata from a wide range of document formats.
 
 > **[commonmark-java](https://github.com/commonmark/commonmark-java) ⭐ 2,696 | 🐛 18 | 🌐 Java | 📅 2026-08-07** <kbd>★ 2.7k</kbd> <kbd>BSD-2-Clause</kbd> 🟢<br>Parses and renders CommonMark-compatible Markdown.
 
@@ -882,11 +882,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[docx4j](https://github.com/plutext/docx4j) ⭐ 2,386 | 🐛 202 | 🌐 Java | 📅 2026-10-02** <kbd>★ 2.4k</kbd> 🟢<br>Create and manipulate Microsoft Open XML files.
 
-> **[html-to-markdown](https://github.com/xberg-io/html-to-markdown) ⭐ 882 | 🐛 53 | 🌐 HTML | 📅 2026-10-02** <kbd>★ 873</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
+> **[html-to-markdown](https://github.com/xberg-io/html-to-markdown) ⭐ 883 | 🐛 53 | 🌐 HTML | 📅 2026-10-02** <kbd>★ 873</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
 
 > **[JQuick Excel](https://github.com/paohaijiao/jquick-excel) ⭐ 129 | 🐛 0 | 🌐 Java | 📅 2026-09-21** <kbd>★ 129</kbd> 🟢<br>Configures Excel import, export, validation, formulas and charts through a declarative XML DSL.
 
-> **[xberg](https://github.com/xberg-io/xberg) ⭐ 9,365 | 🐛 2 | 🌐 Rust | 📅 2026-10-02** <kbd>★ 9.3k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
+> **[xberg](https://github.com/xberg-io/xberg) ⭐ 9,366 | 🐛 1 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 9.3k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
 
 </details>
 
@@ -930,9 +930,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Stripe](https://github.com/stripe/stripe-java) ⭐ 1,006 | 🐛 22 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.0k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
-> **[ta4j](https://github.com/ta4j/ta4j) ⭐ 2,495 | 🐛 15 | 🌐 Java | 📅 2026-10-03** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
+> **[ta4j](https://github.com/ta4j/ta4j) ⭐ 2,496 | 🐛 15 | 🌐 Java | 📅 2026-10-03** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
 
-> **[Wickra](https://github.com/wickra-lib/wickra) ⭐ 62 | 🐛 5 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 56</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
+> **[Wickra](https://github.com/wickra-lib/wickra) ⭐ 63 | 🐛 5 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 56</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
 > **[XChange](https://github.com/knowm/XChange) ⭐ 4,084 | 🐛 35 | 🌐 Java | 📅 2026-10-02** <kbd>★ 4.1k</kbd> <kbd>MIT</kbd> 🟢<br>Consistent Java API for market data and trading across cryptocurrency exchanges.
 
@@ -1006,7 +1006,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) ⭐ 4,320 | 🐛 264 | 🌐 Java | 📅 2026-10-02** <kbd>★ 4.3k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Game engine for modern 3D development.
 
-> **[libGDX](https://github.com/libgdx/libgdx) ⭐ 25,421 | 🐛 343 | 🌐 Java | 📅 2026-09-24** <kbd>★ 25.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>All-round cross-platform, high-level framework.
+> **[libGDX](https://github.com/libgdx/libgdx) ⭐ 25,422 | 🐛 343 | 🌐 Java | 📅 2026-09-24** <kbd>★ 25.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>All-round cross-platform, high-level framework.
 
 > **[Litiengine](https://github.com/gurkenlabs/litiengine) ⭐ 836 | 🐛 11 | 🌐 Java | 📅 2026-09-27** <kbd>★ 836</kbd> <kbd>MIT</kbd> 🟢<br>AWT-based, lightweight 2D game engine.
 
@@ -1029,9 +1029,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Geo](https://github.com/davidmoten/geo) ⭐ 434 | 🐛 9 | 🌐 Java | 📅 2026-10-02** <kbd>★ 435</kbd> <kbd>Apache-2.0</kbd> 🟢<br>GeoHash utilities in Java.
 
-> **[GeoTools](https://github.com/geotools/geotools) ⭐ 1,930 | 🐛 19 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.9k</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Library that provides tools for geospatial data.
+> **[GeoTools](https://github.com/geotools/geotools) ⭐ 1,930 | 🐛 19 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.9k</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Library that provides tools for geospatial data.
 
-> **[GraphHopper](https://github.com/graphhopper/graphhopper) ⭐ 6,717 | 🐛 246 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Road-routing engine. Used as a Java library or standalone web service.
+> **[GraphHopper](https://github.com/graphhopper/graphhopper) ⭐ 6,718 | 🐛 246 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Road-routing engine. Used as a Java library or standalone web service.
 
 > **[H2GIS](https://github.com/orbisgis/h2gis) ⭐ 225 | 🐛 33 | 🌐 PLpgSQL | 📅 2026-10-02** <kbd>★ 224</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Spatial extension of the H2 database.
 
@@ -1110,7 +1110,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[methanol](https://github.com/mizosoft/methanol) ⭐ 299 | 🐛 14 | 🌐 Java | 📅 2026-03-16** <kbd>★ 299</kbd> <kbd>MIT</kbd> 🟠<br>HTTP client extensions library.
 
-> **[OkHttp](https://github.com/lysine-dev/okhttp) ⭐ 47,081 | 🐛 152 | 🌐 Kotlin | 📅 2026-10-03** <kbd>★ 47.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>HTTP client for the JVM, Android and GraalVM.
+> **[OkHttp](https://github.com/lysine-dev/okhttp) ⭐ 47,081 | 🐛 153 | 🌐 Kotlin | 📅 2026-10-03** <kbd>★ 47.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>HTTP client for the JVM, Android and GraalVM.
 
 > **[Retrofit](https://github.com/lysine-dev/retrofit) ⭐ 43,937 | 🐛 152 | 🌐 Java | 📅 2026-10-02** <kbd>★ 43.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Typesafe REST client.
 
@@ -1131,7 +1131,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Explyt](https://github.com/explyt/explyt) ⭐ 25 | 🐛 12 | 📅 2026-09-25** <kbd>★ 25</kbd> 🟢<br>AI coding agent for JetBrains IDEs that uses IDE indexes, refactorings, test runners, static analysis and debugging for Java and Kotlin projects.
 
-> **[IntelliJ IDEA](https://github.com/JetBrains/intellij-community) ⭐ 20,603 | 🐛 147 | 🌐 Java | 📅 2026-10-03** <kbd>★ 20.6k</kbd> 🟢<br>Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
+> **[IntelliJ IDEA](https://github.com/JetBrains/intellij-community) ⭐ 20,606 | 🐛 147 | 🌐 Java | 📅 2026-10-03** <kbd>★ 20.6k</kbd> 🟢<br>Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 
 > **[jGRASP](https://www.jgrasp.org)**<br>Created to provide software visualizations that work in conjunction with the debugger such as Control Structure Diagrams, UML class diagrams and Object Viewer.
 
@@ -1196,7 +1196,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[db-scheduler](https://github.com/kagkarlsson/db-scheduler) ⭐ 1,654 | 🐛 72 | 🌐 Java | 📅 2026-09-21** <kbd>★ 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Persistent and cluster-friendly scheduler.
 
-> **[JobRunr](https://github.com/jobrunr/jobrunr) ⭐ 3,092 | 🐛 6 | 🌐 Java | 📅 2026-09-30** <kbd>★ 3.1k</kbd> 🟢<br>Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
+> **[JobRunr](https://github.com/jobrunr/jobrunr) ⭐ 3,093 | 🐛 6 | 🌐 Java | 📅 2026-09-30** <kbd>★ 3.1k</kbd> 🟢<br>Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 
 > **[Quartz](https://github.com/quartz-scheduler/quartz) ⭐ 6,757 | 🐛 57 | 🌐 Java | 📅 2026-09-28** <kbd>★ 6.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
 
@@ -1260,7 +1260,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Open JDK](https://github.com/openjdk/jdk) ⭐ 23,395 | 🐛 409 | 🌐 Java | 📅 2026-10-03** <kbd>★ 23.4k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Open JDK community home.
 
-> **[OpenJ9](https://github.com/eclipse-openj9/openj9) ⭐ 3,544 | 🐛 3,278 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.5k</kbd> 🟢<br>High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+> **[OpenJ9](https://github.com/eclipse-openj9/openj9) ⭐ 3,544 | 🐛 3,279 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.5k</kbd> 🟢<br>High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 > **[RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)**<br>RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
@@ -1275,7 +1275,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Libraries that log the behavior of an application.*
 
-> **[Apache Log4j 2](https://github.com/apache/logging-log4j2) ⭐ 3,635 | 🐛 231 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Complete rewrite with a powerful plugin and configuration architecture.
+> **[Apache Log4j 2](https://github.com/apache/logging-log4j2) ⭐ 3,635 | 🐛 225 | 🌐 Java | 📅 2026-10-03** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Complete rewrite with a powerful plugin and configuration architecture.
 
 > **[Echopraxia](https://github.com/tersesystems/echopraxia) ⭐ 60 | 🐛 2 | 🌐 Java | 📅 2025-02-20** <kbd>★ 60</kbd> 🔴<br>API designed around structured logging, rich context, and conditional logging. There are Logback and Log4J2 implementations, but Echopraxia's API is completely dependency-free, meaning it can be implemented with any logging API.
 
@@ -1283,7 +1283,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,151 | 🐛 2,078 | 🌐 Java | 📅 2026-10-02** <kbd>★ 8.1k</kbd> 🟢<br>Open-source aggregator suited for extended role and permission management. (GPL-3.0-only)
 
-> **[Kibana](https://github.com/elastic/kibana) ⭐ 21,304 | 🐛 14,731 | 🌐 TypeScript | 📅 2026-10-03** <kbd>★ 21.3k</kbd> 🟢<br>Analyzes and visualizes log files. Some features require payment.
+> **[Kibana](https://github.com/elastic/kibana) ⭐ 21,304 | 🐛 14,717 | 🌐 TypeScript | 📅 2026-10-03** <kbd>★ 21.3k</kbd> 🟢<br>Analyzes and visualizes log files. Some features require payment.
 
 > **[Logback](https://github.com/qos-ch/logback) ⭐ 3,237 | 🐛 333 | 🌐 Java | 📅 2026-09-30** <kbd>★ 3.2k</kbd> 🟢<br>Robust logging library with interesting configuration options via Groovy.
 
@@ -1293,7 +1293,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[SLF4J](https://github.com/qos-ch/slf4j) ⭐ 2,529 | 🐛 150 | 🌐 Java | 📅 2026-09-25** <kbd>★ 2.5k</kbd> <kbd>MIT</kbd> 🟢<br>Abstraction layer/simple logging facade.
 
-> **[tinylog](https://github.com/tinylog-org/tinylog) ⭐ 776 | 🐛 36 | 🌐 Java | 📅 2026-10-02** <kbd>★ 775</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight logging framework with static logger class.
+> **[tinylog](https://github.com/tinylog-org/tinylog) ⭐ 776 | 🐛 35 | 🌐 Java | 📅 2026-10-03** <kbd>★ 775</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight logging framework with static logger class.
 
 </details>
 
@@ -1306,7 +1306,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[DatumBox](https://github.com/datumbox/datumbox-framework) ⭐ 1,083 | 🐛 2 | 🌐 Java | 📅 2023-11-30** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Provides several algorithms and pre-trained models for natural language processing.
 
-> **[Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) ⭐ 14,266 | 🐛 59 | 🌐 Java | 📅 2026-10-01** <kbd>★ 14.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed and multi-threaded deep learning library.
+> **[Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) ⭐ 14,267 | 🐛 59 | 🌐 Java | 📅 2026-10-01** <kbd>★ 14.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed and multi-threaded deep learning library.
 
 > **[DJL](https://github.com/deepjavalibrary/djl) ⭐ 4,854 | 🐛 231 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level and engine-agnostic framework for deep learning.
 
@@ -1341,17 +1341,17 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apache ActiveMQ](https://github.com/apache/activemq) ⭐ 2,465 | 🐛 104 | 🌐 Java | 📅 2026-10-01** <kbd>★ 2.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Message broker that implements JMS and converts synchronous to asynchronous communication.
 
-> **[Apache Camel](https://github.com/apache/camel) ⭐ 6,351 | 🐛 50 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Glues together different transport APIs via Enterprise Integration Patterns.
+> **[Apache Camel](https://github.com/apache/camel) ⭐ 6,351 | 🐛 41 | 🌐 Java | 📅 2026-10-03** <kbd>★ 6.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Glues together different transport APIs via Enterprise Integration Patterns.
 
-> **[Apache Kafka](https://github.com/apache/kafka) ⭐ 33,893 | 🐛 596 | 🌐 Java | 📅 2026-10-02** <kbd>★ 33.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
+> **[Apache Kafka](https://github.com/apache/kafka) ⭐ 33,894 | 🐛 595 | 🌐 Java | 📅 2026-10-03** <kbd>★ 33.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
 
-> **[Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,340 | 🐛 1,771 | 🌐 Java | 📅 2026-10-02** <kbd>★ 15.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed pub/sub-messaging system.
+> **[Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,340 | 🐛 1,772 | 🌐 Java | 📅 2026-10-02** <kbd>★ 15.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed pub/sub-messaging system.
 
 > **[Apache Qpid for Java](https://qpid.apache.org)** <kbd>★ 213</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java messaging clients and brokers implementing AMQP.
 
-> **[Apache RocketMQ](https://github.com/apache/rocketmq) ⭐ 22,623 | 🐛 779 | 🌐 Java | 📅 2026-09-29** <kbd>★ 22.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, and scalable distributed messaging platform.
+> **[Apache RocketMQ](https://github.com/apache/rocketmq) ⭐ 22,624 | 🐛 777 | 🌐 Java | 📅 2026-10-03** <kbd>★ 22.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, and scalable distributed messaging platform.
 
-> **[AutoMQ](https://github.com/AutoMQ/automq) ⭐ 10,901 | 🐛 66 | 🌐 Java | 📅 2026-10-01** <kbd>★ 10.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
+> **[AutoMQ](https://github.com/AutoMQ/automq) ⭐ 10,901 | 🐛 64 | 🌐 Java | 📅 2026-10-01** <kbd>★ 10.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
 
 > **[CloudEvents Java SDK](https://github.com/cloudevents/sdk-java) ⭐ 446 | 🐛 78 | 🌐 Java | 📅 2026-10-02** <kbd>★ 446</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for creating, serializing and transporting CloudEvents.
 
@@ -1359,7 +1359,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Hermes](https://github.com/allegro/hermes) ⭐ 871 | 🐛 7 | 🌐 Java | 📅 2026-08-18** <kbd>★ 870</kbd> 🟢<br>Fast and reliable message broker built on top of Kafka.
 
-> **[HiveMQ MQTT Client](https://github.com/hivemq/hivemq-mqtt-client) ⭐ 1,122 | 🐛 78 | 🌐 Java | 📅 2026-09-30** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reactive and blocking Java client for MQTT 3.1.1 and MQTT 5.
+> **[HiveMQ MQTT Client](https://github.com/hivemq/hivemq-mqtt-client) ⭐ 1,123 | 🐛 78 | 🌐 Java | 📅 2026-09-30** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reactive and blocking Java client for MQTT 3.1.1 and MQTT 5.
 
 > **[JeroMQ](https://github.com/zeromq/jeromq) ⭐ 2,452 | 🐛 102 | 🌐 Java | 📅 2025-11-30** <kbd>★ 2.5k</kbd> <kbd>MPL-2.0</kbd> 🟠<br>Implementation of ZeroMQ.
 
@@ -1373,7 +1373,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Smack](https://github.com/igniterealtime/Smack) ⭐ 2,415 | 🐛 48 | 🌐 Java | 📅 2026-09-21** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Cross-platform XMPP client library.
 
-> **[Svix](https://github.com/svix/svix-webhooks/tree/main/java) ⭐ 3,424 | 🐛 61 | 🌐 Rust | 📅 2026-10-02** <kbd>★ 3.4k</kbd> <kbd>MIT</kbd> 🟢<br>Library for the Svix API to send webhooks and verify signatures.
+> **[Svix](https://github.com/svix/svix-webhooks/tree/main/java) ⭐ 3,425 | 🐛 61 | 🌐 Rust | 📅 2026-10-02** <kbd>★ 3.4k</kbd> <kbd>MIT</kbd> 🟢<br>Library for the Svix API to send webhooks and verify signatures.
 
 </details>
 
@@ -1388,13 +1388,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[gRPC Spring](https://github.com/grpc-ecosystem/grpc-spring) ⭐ 3,708 | 🐛 172 | 🌐 Java | 📅 2026-09-24** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Spring Boot integration for building gRPC clients and servers.
 
-> **[Helidon](https://github.com/helidon-io/helidon) ⭐ 3,833 | 🐛 597 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
+> **[Helidon](https://github.com/helidon-io/helidon) ⭐ 3,833 | 🐛 596 | 🌐 Java | 📅 2026-10-03** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Two-style approach for writing microservices: Functional-reactive and as an implementation of MicroProfile.
 
-> **[Micronaut](https://github.com/micronaut-projects/micronaut-core) ⭐ 6,429 | 🐛 691 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
+> **[Micronaut](https://github.com/micronaut-projects/micronaut-core) ⭐ 6,429 | 🐛 691 | 🌐 Java | 📅 2026-10-03** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
 > **[Nacos](https://github.com/alibaba/nacos) ⭐ 33,421 | 🐛 185 | 🌐 Java | 📅 2026-09-24** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
-> **[Quarkus](https://github.com/quarkusio/quarkus) ⭐ 15,919 | 🐛 2,768 | 🌐 Java | 📅 2026-10-02** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
+> **[Quarkus](https://github.com/quarkusio/quarkus) ⭐ 15,918 | 🐛 2,769 | 🌐 Java | 📅 2026-10-02** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
 > **[Sentinel](https://github.com/alibaba/Sentinel) ⭐ 23,145 | 🐛 867 | 🌐 Java | 📅 2026-05-27** <kbd>★ 23.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Flow control component enabling reliability, resilience and monitoring for microservices.
 
@@ -1435,13 +1435,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apitally](https://github.com/apitally/apitally-java) ⚠️ Archived** <kbd>★ 7</kbd> <kbd>MIT</kbd> 🟢<br>Simple, privacy-focused API monitoring, analytics and request logging for Spring Boot apps.
 
-> **[Arthas](https://github.com/alibaba/arthas) ⭐ 37,564 | 🐛 488 | 🌐 Java | 📅 2026-09-29** <kbd>★ 37.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows to troubleshoot production issues for applications without modifying code or restarting servers.
+> **[Arthas](https://github.com/alibaba/arthas) ⭐ 37,566 | 🐛 488 | 🌐 Java | 📅 2026-09-29** <kbd>★ 37.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
 > **[Automon](https://github.com/stevensouza/automon) ⭐ 570 | 🐛 1 | 🌐 Java | 📅 2024-10-18** <kbd>★ 571</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Combines the power of AOP with monitoring and/or logging tools.
 
 > **[Boot Usage Spring Boot Starter](https://github.com/dhruv-15-03/boot-usage) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-07-27** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Spring Boot Actuator extension providing application startup and runtime metrics including JVM uptime, memory usage, and CPU load.
 
-> **[BTrace](https://github.com/btraceio/btrace) ⭐ 5,995 | 🐛 7 | 🌐 Java | 📅 2026-10-02** <kbd>★ 6.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic tracing and diagnostics for running JVM applications without restarts.
+> **[BTrace](https://github.com/btraceio/btrace) ⭐ 5,995 | 🐛 5 | 🌐 Java | 📅 2026-10-03** <kbd>★ 6.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic tracing and diagnostics for running JVM applications without restarts.
 
 > **[Datadog](https://github.com/DataDog/dd-trace-java) ⭐ 736 | 🐛 481 | 🌐 Java | 📅 2026-10-03** <kbd>★ 737</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern monitoring & analytics.
 
@@ -1449,7 +1449,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Glowroot](https://github.com/glowroot/glowroot) ⭐ 1,358 | 🐛 42 | 🌐 Java | 📅 2026-10-01** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source Java APM.
 
-> **[HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,413 | 🐛 243 | 🌐 Java | 📅 2026-09-30** <kbd>★ 7.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-time monitoring system with custom-monitor and agentless.
+> **[HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,412 | 🐛 243 | 🌐 Java | 📅 2026-09-30** <kbd>★ 7.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-time monitoring system with custom-monitor and agentless.
 
 > **[hippo4j](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) ⭐ 6,000 | 🐛 144 | 🌐 Java | 📅 2026-03-12** <kbd>★ 6.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Dynamic and observable thread pool framework.
 
@@ -1469,7 +1469,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Prometheus](https://github.com/prometheus/client_java) ⭐ 2,290 | 🐛 25 | 🌐 Java | 📅 2026-10-03** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
 
-> **[Sentry](https://github.com/getsentry/sentry-java) ⭐ 1,354 | 🐛 358 | 🌐 Kotlin | 📅 2026-10-02** <kbd>★ 1.4k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with [Sentry](https://github.com/getsentry/sentry) ⭐ 45,060 | 🐛 2,273 | 🌐 Python | 📅 2026-10-03, an application error tracking and performance analysis platform.
+> **[Sentry](https://github.com/getsentry/sentry-java) ⭐ 1,354 | 🐛 359 | 🌐 Kotlin | 📅 2026-10-03** <kbd>★ 1.4k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with [Sentry](https://github.com/getsentry/sentry) ⭐ 45,095 | 🐛 2,274 | 🌐 Python | 📅 2026-10-03, an application error tracking and performance analysis platform.
 
 > **[SPM](https://github.com/sematext/sematext-agent-java) ⭐ 25 | 🐛 18 | 🌐 Java | 📅 2026-10-01** <kbd>★ 25</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performance monitor with distributing transaction tracing for JVM apps.
 
@@ -1544,11 +1544,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) ⭐ 10,806 | 🐛 61 | 🌐 Java | 📅 2026-01-13** <kbd>★ 10.8k</kbd> <kbd>MIT</kbd> 🟠<br>Lightweight WebSocket client and server implementation.
 
-> **[MINA](https://github.com/apache/mina) ⭐ 921 | 🐛 9 | 🌐 Java | 📅 2026-10-02** <kbd>★ 922</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Abstract, event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
+> **[MINA](https://github.com/apache/mina) ⭐ 921 | 🐛 8 | 🌐 Java | 📅 2026-10-03** <kbd>★ 922</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Abstract, event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
 
 > **[MinimalFTP](https://github.com/Guichaguri/MinimalFTP) ⭐ 193 | 🐛 2 | 🌐 Java | 📅 2025-06-15** <kbd>★ 193</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Lightweight, small and customizable FTP server.
 
-> **[Netty](https://github.com/netty/netty) ⭐ 35,067 | 🐛 738 | 🌐 Java | 📅 2026-10-02** <kbd>★ 35.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for building high-performance network applications.
+> **[Netty](https://github.com/netty/netty) ⭐ 35,067 | 🐛 736 | 🌐 Java | 📅 2026-10-03** <kbd>★ 35.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for building high-performance network applications.
 
 > **[ServiceTalk](https://github.com/apple/servicetalk) ⭐ 1,041 | 🐛 75 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
 
@@ -1633,7 +1633,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) ⭐ 2,236 | 🐛 34 | 🌐 Java | 📅 2026-10-01** <kbd>★ 2.2k</kbd> 🟢<br>XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 
-> **[GraphCompose](https://github.com/DemchaAV/GraphCompose) ⭐ 114 | 🐛 18 | 🌐 Java | 📅 2026-10-02** <kbd>★ 113</kbd> <kbd>MIT</kbd> 🟢<br>Declarative engine for structured business PDFs with semantic layout, atomic pagination, theme tokens, and native vector charts.
+> **[GraphCompose](https://github.com/DemchaAV/GraphCompose) ⭐ 114 | 🐛 17 | 🌐 Java | 📅 2026-10-03** <kbd>★ 113</kbd> <kbd>MIT</kbd> 🟢<br>Declarative engine for structured business PDFs with semantic layout, atomic pagination, theme tokens, and native vector charts.
 
 > **[iText](https://github.com/itext/itext-java) ⭐ 2,257 | 🐛 77 | 🌐 Java | 📅 2026-10-01** <kbd>★ 2.3k</kbd> 🟢<br>Creates PDF files programmatically.
 
@@ -1645,7 +1645,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Open HTML to PDF](https://github.com/openhtmltopdf/openhtmltopdf) ⭐ 289 | 🐛 46 | 🌐 Java | 📅 2026-09-26** <kbd>★ 286</kbd> 🟢<br>Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-> **[OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) ⭐ 29,453 | 🐛 90 | 🌐 Java | 📅 2026-10-02** <kbd>★ 29.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
+> **[OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) ⭐ 29,455 | 🐛 90 | 🌐 Java | 📅 2026-10-02** <kbd>★ 29.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
 
 > **[OpenPDF](https://github.com/LibrePDF/OpenPDF) ⭐ 4,373 | 🐛 192 | 🌐 Java | 📅 2026-09-18** <kbd>★ 4.4k</kbd> 🟢<br>Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
@@ -1795,7 +1795,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Light-4J](https://github.com/networknt/light-4j/) ⭐ 3,673 | 🐛 14 | 🌐 Java | 📅 2026-10-03** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, lightweight and productive microservices framework with built-in security.
 
-> **[Spring Framework](https://github.com/spring-projects/spring-framework) ⭐ 60,267 | 🐛 484 | 🌐 Java | 📅 2026-10-02** <kbd>★ 60.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive application framework for building Java applications.
+> **[Spring Framework](https://github.com/spring-projects/spring-framework) ⭐ 60,266 | 🐛 484 | 🌐 Java | 📅 2026-10-02** <kbd>★ 60.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive application framework for building Java applications.
 
 </details>
 
@@ -1819,7 +1819,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[LittleProxy](https://github.com/LittleProxy/LittleProxy) ⭐ 150 | 🐛 19 | 🌐 Java | 📅 2026-09-30** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High performance HTTP proxy atop Netty's event-based networking library.
 
-> **[Membrane Service Proxy](https://github.com/membrane/api-gateway) ⭐ 644 | 🐛 18 | 🌐 Java | 📅 2026-10-02** <kbd>★ 642</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
+> **[Membrane Service Proxy](https://github.com/membrane/api-gateway) ⭐ 645 | 🐛 18 | 🌐 Java | 📅 2026-10-02** <kbd>★ 642</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
 
 > **[OpenIG](https://github.com/OpenIdentityPlatform/OpenIG) ⭐ 94 | 🐛 16 | 🌐 Java | 📅 2026-09-18** <kbd>★ 93</kbd> 🟢<br>High-performance reverse proxy server with specialized session management and credential replay functionality.
 
@@ -1866,7 +1866,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Frameworks specifically for creating RESTful services.*
 
-> **[Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,581 | 🐛 56 | 🌐 Java | 📅 2026-10-01** <kbd>★ 8.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
+> **[Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,582 | 🐛 56 | 🌐 Java | 📅 2026-10-01** <kbd>★ 8.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Opinionated framework for setting up modern web applications with Jetty, Jackson, Jersey and Metrics.
 
 > **[Elide](https://github.com/yahoo/elide) ⭐ 1,032 | 🐛 90 | 🌐 Java | 📅 2026-09-21** <kbd>★ 1.0k</kbd> 🟢<br>Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
 
@@ -1932,7 +1932,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Tools and runtimes for using Java or Java-like languages as scripts.*
 
-> **[JBang](https://github.com/jbangdev/jbang) ⭐ 1,869 | 🐛 414 | 🌐 Java | 📅 2026-09-24** <kbd>★ 1.9k</kbd> <kbd>MIT</kbd> 🟢<br>JBang makes it easy to use Java for scripting. It lets you use a single file for code and dependency management and allows you to run it directly.
+> **[JBang](https://github.com/jbangdev/jbang) ⭐ 1,869 | 🐛 413 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.9k</kbd> <kbd>MIT</kbd> 🟢<br>JBang makes it easy to use Java for scripting. It lets you use a single file for code and dependency management and allows you to run it directly.
 
 > **[JPad](https://jpad.io)**<br>Snippet runner.
 
@@ -1945,15 +1945,15 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Engines that index documents for search and analysis.*
 
-> **[Apache Lucene](https://github.com/apache/lucene) ⭐ 3,571 | 🐛 2,662 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, full-featured, cross-platform, text search engine library.
+> **[Apache Lucene](https://github.com/apache/lucene) ⭐ 3,571 | 🐛 2,663 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, full-featured, cross-platform, text search engine library.
 
 > **[Apache Solr](https://github.com/apache/solr) ⭐ 1,679 | 🐛 197 | 🌐 Java | 📅 2026-10-03** <kbd>★ 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
 
-> **[Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,179 | 🐛 6,123 | 🌐 Java | 📅 2026-10-03** <kbd>★ 77.9k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
+> **[Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,182 | 🐛 6,122 | 🌐 Java | 📅 2026-10-03** <kbd>★ 77.9k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
 
 > **[Elasticsearch Java Client](https://github.com/elastic/elasticsearch-java) ⭐ 524 | 🐛 39 | 🌐 Java | 📅 2026-09-28** <kbd>★ 524</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official typed Java client for Elasticsearch.
 
-> **[OpenSearch](https://github.com/opensearch-project/OpenSearch) ⭐ 13,803 | 🐛 3,209 | 🌐 Java | 📅 2026-10-02** <kbd>★ 13.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed search and analytics engine derived from Elasticsearch.
+> **[OpenSearch](https://github.com/opensearch-project/OpenSearch) ⭐ 13,804 | 🐛 3,209 | 🌐 Java | 📅 2026-10-02** <kbd>★ 13.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed search and analytics engine derived from Elasticsearch.
 
 > **[Viglet Turing ES](https://github.com/openviglet/turing-ce) ⭐ 22 | 🐛 3 | 🌐 Java | 📅 2026-09-30** <kbd>★ 22</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.
 
@@ -1970,23 +1970,23 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Bashkit4j](https://github.com/tersePrompts/bashkit4j) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2026-09-06** <kbd>★ 3</kbd> <kbd>MIT</kbd> 🟢<br>Sandboxed bash interpreter for running untrusted scripts in-process: in-memory filesystem, opt-in allowlisted host mounts, network denied by default.
 
-> **[Bouncy Castle](https://github.com/bcgit/bc-java) ⭐ 2,694 | 🐛 92 | 🌐 Java | 📅 2026-10-01** <kbd>★ 2.7k</kbd> <kbd>MIT</kbd> 🟢<br>All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+> **[Bouncy Castle](https://github.com/bcgit/bc-java) ⭐ 2,694 | 🐛 91 | 🌐 Java | 📅 2026-10-01** <kbd>★ 2.7k</kbd> <kbd>MIT</kbd> 🟢<br>All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
 > **[Certificate Ripper](https://github.com/Hakky54/certificate-ripper) ⭐ 929 | 🐛 0 | 🌐 Java | 📅 2026-09-28** <kbd>★ 926</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
 
-> **[Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,234 | 🐛 281 | 🌐 Java | 📅 2026-10-01** <kbd>★ 16.2k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Multiplatform, transparent, client-side encryption of files in the cloud.
+> **[Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,235 | 🐛 281 | 🌐 Java | 📅 2026-10-01** <kbd>★ 16.2k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Multiplatform, transparent, client-side encryption of files in the cloud.
 
 > **[Dependency-Track](https://github.com/DependencyTrack/dependency-track) ⭐ 4,257 | 🐛 1,051 | 🌐 Java | 📅 2026-10-02** <kbd>★ 4.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Software composition analysis platform for identifying supply-chain risk.
 
 > **[Jasypt Spring Boot](https://github.com/ulisesbocchio/jasypt-spring-boot) ⭐ 3,086 | 🐛 78 | 🌐 Java | 📅 2026-01-25** <kbd>★ 3.1k</kbd> <kbd>MIT</kbd> 🟠<br>Integrates encrypted properties with Spring Boot applications.
 
-> **[jjwt](https://github.com/jwtk/jjwt) ⭐ 11,139 | 🐛 46 | 🌐 Java | 📅 2026-09-28** <kbd>★ 11.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JSON web token for Java and Android.
+> **[jjwt](https://github.com/jwtk/jjwt) ⭐ 11,138 | 🐛 46 | 🌐 Java | 📅 2026-09-28** <kbd>★ 11.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JSON web token for Java and Android.
 
 > **[Jwks RSA](https://github.com/auth0/jwks-rsa-java) ⭐ 207 | 🐛 8 | 🌐 Java | 📅 2026-10-01** <kbd>★ 207</kbd> <kbd>MIT</kbd> 🟢<br>JSON Web Key Set parser.
 
 > **[jwt-java](https://github.com/BastiaanJansen/jwt-java) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2025-07-17** <kbd>★ 15</kbd> <kbd>MIT</kbd> 🔴<br>Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
 
-> **[Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,104 | 🐛 3,200 | 🌐 Java | 📅 2026-10-03** <kbd>★ 36.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
+> **[Keycloak](https://github.com/keycloak/keycloak) ⭐ 37,106 | 🐛 3,203 | 🌐 Java | 📅 2026-10-03** <kbd>★ 36.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
 
 > **[MOSS](https://github.com/mosscomputing/moss-java) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-07-25** <kbd>★ 0</kbd> 🟢<br>Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures, creating audit trails for attribution and compliance.
 
@@ -2008,9 +2008,9 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[SecurityBuilder](https://github.com/tersesystems/securitybuilder) ⭐ 49 | 🐛 0 | 🌐 Java | 📅 2021-06-26** <kbd>★ 49</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
-> **[Spring Security](https://github.com/spring-projects/spring-security) ⭐ 9,638 | 🐛 1,503 | 🌐 Java | 📅 2026-10-02** <kbd>★ 9.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Authentication and access-control framework with OAuth 2.1 and OpenID Connect authorization server support.
+> **[Spring Security](https://github.com/spring-projects/spring-security) ⭐ 9,637 | 🐛 1,503 | 🌐 Java | 📅 2026-10-02** <kbd>★ 9.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Authentication and access-control framework with OAuth 2.1 and OpenID Connect authorization server support.
 
-> **[Themis](https://github.com/cossacklabs/themis) ⭐ 1,976 | 🐛 31 | 🌐 C | 📅 2026-04-24** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
+> **[Themis](https://github.com/cossacklabs/themis) ⭐ 1,977 | 🐛 31 | 🌐 C | 📅 2026-04-24** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
 > **[Tink](https://github.com/tink-crypto/tink-java) ⭐ 307 | 🐛 16 | 🌐 Java | 📅 2026-09-24** <kbd>★ 305</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a simple and misuse-proof API for common cryptographic tasks.
 
@@ -2027,7 +2027,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apache Avro](https://github.com/apache/avro) ⭐ 3,305 | 🐛 246 | 🌐 Java | 📅 2026-10-01** <kbd>★ 3.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Data interchange format with dynamic typing, untagged data, and absence of manually assigned IDs.
 
-> **[Apache Fory](https://github.com/apache/fory) ⭐ 4,564 | 🐛 69 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance object graph serialization framework with JIT and zero-copy support.
+> **[Apache Fory](https://github.com/apache/fory) ⭐ 4,564 | 🐛 70 | 🌐 Java | 📅 2026-10-01** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance object graph serialization framework with JIT and zero-copy support.
 
 > **[Apache Orc](https://github.com/apache/orc) ⭐ 769 | 🐛 21 | 🌐 Java | 📅 2026-09-25** <kbd>★ 769</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast and efficient columnar storage format for Hadoop-based workloads.
 
@@ -2037,11 +2037,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,542 | 🐛 322 | 🌐 C++ | 📅 2026-09-14** <kbd>★ 26.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 
-> **[Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,546 | 🐛 13 | 🌐 HTML | 📅 2026-10-02** <kbd>★ 6.5k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Fast and efficient object graph serialization framework.
+> **[Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,546 | 🐛 10 | 🌐 HTML | 📅 2026-10-03** <kbd>★ 6.5k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Fast and efficient object graph serialization framework.
 
 > **[MessagePack](https://github.com/msgpack/msgpack-java) ⭐ 1,477 | 🐛 72 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient binary serialization format.
 
-> **[Protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,090 | 🐛 470 | 🌐 C++ | 📅 2026-10-03** <kbd>★ 72.1k</kbd> 🟢<br>Google's data interchange format.
+> **[Protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,089 | 🐛 468 | 🌐 C++ | 📅 2026-10-03** <kbd>★ 72.1k</kbd> 🟢<br>Google's data interchange format.
 
 > **[SBE](https://github.com/aeron-io/simple-binary-encoding) ⭐ 3,514 | 🐛 35 | 🌐 Java | 📅 2026-09-29** <kbd>★ 3.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simple Binary Encoding, one of the fastest message formats around.
 
@@ -2056,11 +2056,11 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Servers specifically used to deploy applications.*
 
-> **[Apache Tomcat](https://github.com/apache/tomcat) ⭐ 8,255 | 🐛 34 | 🌐 Java | 📅 2026-10-02** <kbd>★ 8.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Robust, all-round server for Servlet and JSP.
+> **[Apache Tomcat](https://github.com/apache/tomcat) ⭐ 8,258 | 🐛 34 | 🌐 Java | 📅 2026-10-02** <kbd>★ 8.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Robust, all-round server for Servlet and JSP.
 
 > **[Apache TomEE](https://github.com/apache/tomee) ⭐ 478 | 🐛 8 | 🌐 Java | 📅 2026-10-02** <kbd>★ 479</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Tomcat plus Java EE.
 
-> **[Jetty](https://github.com/jetty/jetty.project) ⭐ 4,097 | 🐛 294 | 🌐 Java | 📅 2026-10-03** <kbd>★ 4.1k</kbd> 🟢<br>Provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations.
+> **[Jetty](https://github.com/jetty/jetty.project) ⭐ 4,097 | 🐛 285 | 🌐 Java | 📅 2026-10-03** <kbd>★ 4.1k</kbd> 🟢<br>Provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations.
 
 > **[WildFly](https://github.com/wildfly/wildfly) ⭐ 3,189 | 🐛 110 | 🌐 Java | 📅 2026-10-02** <kbd>★ 3.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formerly known as JBoss and developed by Red Hat with extensive Java EE support.
 
@@ -2071,7 +2071,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Libraries for reading, writing and generating spreadsheet files.*
 
-> **[Apache Fesod](https://github.com/apache/fesod) ⭐ 6,243 | 🐛 201 | 🌐 Java | 📅 2026-09-29** <kbd>★ 6.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Memory-efficient library for reading and writing large spreadsheet files.
+> **[Apache Fesod](https://github.com/apache/fesod) ⭐ 6,245 | 🐛 201 | 🌐 Java | 📅 2026-09-29** <kbd>★ 6.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Memory-efficient library for reading and writing large spreadsheet files.
 
 > **[Apache POI](https://github.com/apache/poi) ⭐ 2,276 | 🐛 43 | 🌐 Java | 📅 2026-10-02** <kbd>★ 2.3k</kbd> 🟢<br>Supports OOXML (XLSX, DOCX, PPTX) as well as OLE2 (XLS, DOC or PPT).
 
@@ -2157,7 +2157,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[jqwik](https://github.com/jqwik-team/jqwik) ⭐ 853 | 🐛 51 | 🌐 Java | 📅 2026-09-28** <kbd>★ 849</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Engine for property-based testing built on JUnit 5.
 
-> **[JUnit](https://github.com/junit-team/junit-framework) ⭐ 7,056 | 🐛 119 | 🌐 Java | 📅 2026-10-02** <kbd>★ 7.1k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
+> **[JUnit](https://github.com/junit-team/junit-framework) ⭐ 7,056 | 🐛 119 | 🌐 Java | 📅 2026-10-03** <kbd>★ 7.1k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
 
 > **[PIT](https://github.com/hcoles/pitest) ⭐ 1,871 | 🐛 318 | 🌐 Java | 📅 2026-08-28** <kbd>★ 1.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 
@@ -2175,13 +2175,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[cdi-test](https://github.com/guhilling/cdi-test) ⭐ 31 | 🐛 10 | 🌐 Java | 📅 2026-09-26** <kbd>★ 31</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JUnit extension for easy and efficient testing of CDI components.
 
-> **[Citrus](https://github.com/citrusframework/citrus) ⭐ 486 | 🐛 182 | 🌐 Java | 📅 2026-10-02** <kbd>★ 485</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integration testing framework that focuses on both client- and server-side messaging.
+> **[Citrus](https://github.com/citrusframework/citrus) ⭐ 486 | 🐛 178 | 🌐 Java | 📅 2026-10-03** <kbd>★ 485</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integration testing framework that focuses on both client- and server-side messaging.
 
 > **[GreenMail](https://github.com/greenmail-mail-test/greenmail) ⭐ 746 | 🐛 71 | 🌐 Java | 📅 2026-10-01** <kbd>★ 744</kbd> <kbd>Apache-2.0</kbd> 🟢<br>In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
 
 > **[Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) ⭐ 177 | 🐛 21 | 🌐 Java | 📅 2026-05-20** <kbd>★ 177</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 
-> **[Karate](https://github.com/karatelabs/karate) ⭐ 8,974 | 🐛 8 | 🌐 Java | 📅 2026-10-02** <kbd>★ 9.0k</kbd> <kbd>MIT</kbd> 🟢<br>DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+> **[Karate](https://github.com/karatelabs/karate) ⭐ 8,975 | 🐛 8 | 🌐 Java | 📅 2026-10-02** <kbd>★ 9.0k</kbd> <kbd>MIT</kbd> 🟢<br>DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 > **[kubetest4j](https://github.com/skodjob/kubetest4j) ⭐ 23 | 🐛 0 | 🌐 Java | 📅 2026-09-28** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative, annotation-based testing library for Kubernetes and OpenShift with automatic resource lifecycle management, multi-cluster support, and integrated log collection.
 
@@ -2227,7 +2227,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Qualflare TestNG](https://github.com/Qualflare/qualflare-testng) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-01** <kbd>★ 0</kbd> <kbd>Apache-2.0</kbd> 🟢<br>TestNG listener that keeps every retry attempt and reports timeouts and configuration failures as distinct statuses.
 
-> **[Selfie](https://github.com/diffplug/selfie) ⭐ 101 | 🐛 46 | 🌐 Kotlin | 📅 2026-09-25** <kbd>★ 101</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Snapshot testing (inline and on disk).
+> **[Selfie](https://github.com/diffplug/selfie) ⭐ 101 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-03** <kbd>★ 101</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Snapshot testing (inline and on disk).
 
 > **[skipper-java](https://github.com/get-skipper/skipper-java) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-04-20** <kbd>★ 5</kbd> <kbd>MIT</kbd> 🟠<br>Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 
@@ -2324,13 +2324,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Apache Nutch](https://github.com/apache/nutch) ⭐ 3,295 | 🐛 7 | 🌐 Java | 📅 2026-10-01** <kbd>★ 3.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly extensible, highly scalable web crawler for production environments.
 
-> **[crawlberg](https://github.com/xberg-io/crawlberg) ⭐ 180 | 🐛 258 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 177</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
+> **[crawlberg](https://github.com/xberg-io/crawlberg) ⭐ 181 | 🐛 261 | 🌐 Rust | 📅 2026-10-03** <kbd>★ 177</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
 
 > **[jsoup](https://github.com/jhy/jsoup) ⭐ 11,400 | 🐛 5 | 🌐 Java | 📅 2026-10-01** <kbd>★ 11.4k</kbd> <kbd>MIT</kbd> 🟢<br>Scrapes, parses, manipulates and cleans HTML.
 
 > **[Norconex Crawler](https://github.com/Norconex/crawler) ⭐ 205 | 🐛 39 | 🌐 Java | 📅 2026-10-01** <kbd>★ 204</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modular web and file-system crawler with embedded Java APIs, official Docker images and a browser-based configurator.
 
-> **[StormCrawler](https://github.com/apache/stormcrawler) ⭐ 1,004 | 🐛 24 | 🌐 Java | 📅 2026-10-02** <kbd>★ 996</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
+> **[StormCrawler](https://github.com/apache/stormcrawler) ⭐ 1,004 | 🐛 23 | 🌐 Java | 📅 2026-10-03** <kbd>★ 996</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
 
 > **[webmagic](https://github.com/code4craft/webmagic) ⭐ 11,675 | 🐛 367 | 🌐 Java | 📅 2025-12-20** <kbd>★ 11.7k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Scalable crawler with downloading, url management, content extraction and persistent.
 
@@ -2351,7 +2351,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Bootique](https://github.com/bootique/bootique) ⭐ 1,427 | 🐛 18 | 🌐 Java | 📅 2026-08-31** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Minimally opinionated framework for runnable apps.
 
-> **[Erupt](https://github.com/erupts/erupt) ⭐ 2,919 | 🐛 2 | 🌐 Java | 📅 2026-10-02** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Annotation-Driven Low-Code & JPA Visualization.
+> **[Erupt](https://github.com/erupts/erupt) ⭐ 2,921 | 🐛 2 | 🌐 Java | 📅 2026-10-02** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Annotation-Driven Low-Code & JPA Visualization.
 
 > **[Javalin](https://github.com/javalin/javalin) ⭐ 8,357 | 🐛 25 | 🌐 Kotlin | 📅 2026-10-01** <kbd>★ 8.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Microframework for web applications.
 
@@ -2361,13 +2361,13 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Pippo](https://github.com/pippo-java/pippo) ⭐ 787 | 🐛 64 | 🌐 Java | 📅 2025-12-22** <kbd>★ 787</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Small, highly modularized, Sinatra-like framework.
 
-> **[Play](https://github.com/playframework/playframework) ⭐ 12,614 | 🐛 499 | 🌐 Scala | 📅 2026-10-01** <kbd>★ 12.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Built on Akka, it provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications in Java and Scala.
+> **[Play](https://github.com/playframework/playframework) ⭐ 12,615 | 🐛 499 | 🌐 Scala | 📅 2026-10-01** <kbd>★ 12.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Built on Akka, it provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications in Java and Scala.
 
 > **[PrimeFaces](https://github.com/primefaces/primefaces) ⭐ 1,935 | 🐛 92 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.9k</kbd> <kbd>MIT</kbd> 🟢<br>JSF framework with both free and commercial/support versions and frontend components.
 
 > **[Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 217 | 🌐 Java | 📅 2026-10-02** <kbd>★ 1.9k</kbd> 🟢<br>Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 
-> **[Spring Boot](https://github.com/spring-projects/spring-boot) ⭐ 81,547 | 🐛 455 | 🌐 Java | 📅 2026-10-02** <kbd>★ 81.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating stand-alone, production-grade Spring applications.
+> **[Spring Boot](https://github.com/spring-projects/spring-boot) ⭐ 81,546 | 🐛 454 | 🌐 Java | 📅 2026-10-02** <kbd>★ 81.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating stand-alone, production-grade Spring applications.
 
 > **[Takes](https://github.com/yegor256/takes) ⭐ 878 | 🐛 52 | 🌐 Java | 📅 2026-10-03** <kbd>★ 878</kbd> <kbd>MIT</kbd> 🟢<br>Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 
@@ -2386,19 +2386,19 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 *Engines for orchestrating long-running workflows and business processes.*
 
-> **[Activiti](https://github.com/Activiti/Activiti) ⭐ 10,542 | 🐛 592 | 🌐 Java | 📅 2026-10-02** <kbd>★ 10.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable BPMN workflow and business process engine.
+> **[Activiti](https://github.com/Activiti/Activiti) ⭐ 10,542 | 🐛 592 | 🌐 Java | 📅 2026-10-03** <kbd>★ 10.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable BPMN workflow and business process engine.
 
 > **[Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,507 | 🐛 133 | 🌐 Java | 📅 2026-09-30** <kbd>★ 14.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed workflow orchestration platform with visual and API-driven scheduling.
 
 > **[Cadence Java Client](https://github.com/cadence-workflow/cadence-java-client) ⭐ 155 | 🐛 52 | 🌐 Java | 📅 2026-10-03** <kbd>★ 154</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client and workflow framework for the Cadence orchestration service.
 
-> **[Conductor](https://github.com/conductor-oss/conductor) ⭐ 32,261 | 🐛 263 | 🌐 Java | 📅 2026-10-03** <kbd>★ 32.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
+> **[Conductor](https://github.com/conductor-oss/conductor) ⭐ 32,260 | 🐛 263 | 🌐 Java | 📅 2026-10-03** <kbd>★ 32.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
 
 > **[flowable](https://github.com/flowable/flowable-engine) ⭐ 9,564 | 🐛 428 | 🌐 Java | 📅 2026-10-01** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compact and efficient workflow and business process management platform.
 
 > **[Maestro](https://github.com/Netflix/maestro) ⭐ 3,841 | 🐛 39 | 🌐 Java | 📅 2026-09-30** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Workflow orchestration engine developed by Netflix.
 
-> **[Temporal Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 283 | 🌐 Java | 📅 2026-10-02** <kbd>★ 433</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
+> **[Temporal Java SDK](https://github.com/temporalio/sdk-java) ⭐ 433 | 🐛 282 | 🌐 Java | 📅 2026-10-03** <kbd>★ 433</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
 
 </details>
 
@@ -2423,7 +2423,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Awesome JVM](https://github.com/deephacks/awesome-jvm) ⭐ 2,177 | 🐛 17 | 📅 2022-08-30**
 
-> **[Awesome Microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,530 | 🐛 16 | 📅 2026-08-20**
+> **[Awesome Microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,531 | 🐛 16 | 📅 2026-08-20**
 
 > **[Awesome REST](https://github.com/marmelab/awesome-rest) ⭐ 3,918 | 🐛 13 | 📅 2026-09-23**
 
@@ -2457,7 +2457,7 @@ A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
 > **[Design Patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,756 | 🐛 133 | 🌐 Java | 📅 2026-09-29**<br>Implementation and explanation of the most common design patterns.
 
-> **[FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,883 | 🐛 547 | 🌐 Java | 📅 2024-07-15**<br>No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
+> **[FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,884 | 🐛 547 | 🌐 Java | 📅 2024-07-15**<br>No-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (No explicit license)
 
 > **[Google Java Style](https://google.github.io/styleguide/javaguide.html)**
 
